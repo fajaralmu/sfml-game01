@@ -1,0 +1,37 @@
+﻿  virus.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\virus.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tile.cpp
+  alien.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\alien.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\player.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\player.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  pengatur_entitas.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\pengatur_entitas.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\pengatur_entitas.cpp(35): warning C4018: '<': signed/unsigned mismatch
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\pengatur_entitas.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  pelurumusuh.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\pelurumusuh.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  peluru.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\peluru.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(30): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(46): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(68): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(80): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\main.cpp(95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  entitas.cpp
+  Denah.cpp
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfml-game-jumper\jalanjalan\denah.cpp(165): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  JalanJalan.vcxproj -> E:\Visual Studio 2015\Projects\SFML-game-jumper\Debug\JalanJalan.exe
+  JalanJalan.vcxproj -> E:\Visual Studio 2015\Projects\SFML-game-jumper\Debug\JalanJalan.pdb (Partial PDB)
